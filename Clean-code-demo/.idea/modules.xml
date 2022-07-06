@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clean-code-demo.iml" filepath="$PROJECT_DIR$/Clean-code-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/withoutsolid/withoutsolid.iml" filepath="$PROJECT_DIR$/withoutsolid/withoutsolid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/withsolid/withsolid.iml" filepath="$PROJECT_DIR$/withsolid/withsolid.iml" />
+    </modules>
+  </component>
+</project>
